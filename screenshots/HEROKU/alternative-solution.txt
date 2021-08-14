@@ -1,0 +1,15 @@
+
+
+Unfortunately, mLab no longer supports MongoDB
+and the alternative add-on I could find was
+ObjectRocket for MongoDB (which is a paid add-on).
+
+Since I still wanted to complete this assignment,
+I decided to use MongoDB Atlas instead, and integrate
+it with Heroku. Basically, I did this by creating an Atlas cluster
+and set its connection string to a Heroku config variable.
+
+I hope my alternative solution is acceptable.
+
+
+
